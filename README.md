@@ -11,18 +11,18 @@ Further, a blog post is available at: ,describing all the steps and conclusions 
 
 The project is organized as follows:
  
-- data 
-|- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.) 
-|- profile.json - demographic data for each customer 
+- data  
+|- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)  
+|- profile.json - demographic data for each customer  
 |- transcript.json - records for transactions, offers received, offers viewed, and offers completed  
-- Starbucks_Capstone_notebook.ipynb - notebook with the clean, explore, vizualize and model 
-- README.md 
-- docs - images from the analysis 
-- processed_data 
-|- offers_transcript.csv - transactions during the offers period 
-|- processed_offers.csv - dataset of offers used to analyze and train the model 
-- models 
-|- final-best-catboost.pkl - the trained classifier to recomend to send a offer or not
+- Starbucks_Capstone_notebook.ipynb - notebook with the clean, explore, vizualize and model  
+- README.md  
+- docs - images from the analysis  
+- processed_data  
+|- offers_transcript.csv - transactions during the offers period  
+|- processed_offers.csv - dataset of offers used to analyze and train the model  
+- models  
+|- final-best-catboost.pkl - the trained classifier to recomend to send a offer or not  
 
 
 ## Instalation
