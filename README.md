@@ -5,7 +5,10 @@
 Using three datasets provided by Starbucks, 
 this work aims to get the data, clean it, explore, visualize and understand, 
 and, finally, model a predictor to check if a customer would take or not an offer. 
-Further, a blog post is available at: ,describing all the steps and conclusions made.
+Further, a blog post is available at: [here](https://gregorymarchesan.medium.com/would-you-take-a-starbucks-offer-2b25b565c83f),
+describing all the steps and conclusions made.
+
+Summarizing, the data analysis made possible to understand better the Starbucks offers and take conclusion from the data, as well as, the machine learning model trained with PyCaret had an accuracy of 70% and a F1-Score of 52%.
 
 ## Folder organization
 
